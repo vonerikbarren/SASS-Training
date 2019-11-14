@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,IAAI,AAAA,CACF,gBAAgB,CAAE,MAAM,CACzB",
+    "sources": [
+        "../../style2.scss"
+    ],
+    "names": [],
+    "file": "style2.min.css"
+}
